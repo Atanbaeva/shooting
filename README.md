@@ -7,4 +7,5 @@ To move ship you have to click "right" and "left arrow", to shot you have to cli
 3.enemies will move faster
 
 ![Снимок](https://user-images.githubusercontent.com/73099449/102781724-5f81f180-43c2-11eb-988e-50a9d8397707.JPG)
+
 created by Aidarek Amanov and Eliza Atanbaeva
